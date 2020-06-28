@@ -1,14 +1,29 @@
 ﻿<Properties StartupConfiguration="{A3D1CD4F-CD44-4961-A554-39BEF48EA893}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetDominante/Pages/Index.cshtml">
+    <Files>
+      <File FileName="ProjetDominante/Startup.cs" Line="43" Column="41" />
+      <File FileName="ProjetDominante/ProjetDominante.csproj" Line="8" Column="1" />
+      <File FileName="ProjetDominante/Pages/Index.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProjetDominante" expanded="True" selected="True" />
+          <Node name="ProjetDominante" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="ProjetDominante" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ProjetDominante FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ProjetDominante PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
